@@ -1,8 +1,9 @@
+node_modules
+
 .idea
 .idea/*
 .env*-lock.json
 
-/node_module
 /.pnp
 
 /build
